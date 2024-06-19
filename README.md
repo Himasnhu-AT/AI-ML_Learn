@@ -8,6 +8,20 @@
 > 3. finetune `llm` models from hugging face
 > 4. building applications,
 > 5. demo day, showcase what you built
+>
+> ---
+> 
+> Introduce first AI-ML cohort `based on response from above 5 lectures`
+> It's Structure (main points):
+> > 2 months `(paid)`
+> - understand ML
+> - how ml works, just high school maths on steroids?
+> - build your own ml models from scratch
+> - understand AI
+> - How AI works, just linear algebra?
+> - Talk about AGI, just multiple AI agents stiched together?
+> - build products using AI.
+> - demo day, show what you built
 
 This conversation focused on the topic of large language models (LLMs), discussing their architecture, pre-training and fine-tuning techniques, popular LLMs such as GPT, BERT, and T5, applications and use cases, limitations and ethical considerations, and prompting techniques. It also explored open-source LLMs, the future development of these models, and their implications for humans.
 
