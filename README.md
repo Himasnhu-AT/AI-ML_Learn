@@ -1,5 +1,14 @@
 # Introduction to Large Language Models
 
+> [!NOTE]  
+> Divide this repo into multiple folder structure
+> Like:
+> 1. Understand how `llm` works, their history so on...
+> 2. build your own `llm` from scratch based on research paper
+> 3. finetune `llm` models from hugging face
+> 4. building applications,
+> 5. demo day, showcase what you built
+
 This conversation focused on the topic of large language models (LLMs), discussing their architecture, pre-training and fine-tuning techniques, popular LLMs such as GPT, BERT, and T5, applications and use cases, limitations and ethical considerations, and prompting techniques. It also explored open-source LLMs, the future development of these models, and their implications for humans.
 
 Key takeaways include the importance of understanding the underlying architecture of LLMs, such as the transformer architecture, and the various pre-training and fine-tuning techniques that help these models generalize across tasks. Popular LLMs like GPT, BERT, and T5 have demonstrated state-of-the-art performance across a wide range of NLP tasks, and effective prompting techniques can help users extract more valuable information from these models.
